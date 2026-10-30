@@ -1,3 +1,3 @@
 # date-bot-pics
 
-Seven images found via Bing image search. Sources and image URLs are in sources.json. Copyright and permission to redistribute have not been verified.
+97 images: seven selected from Bing and 90 from Pinterest. Source pages and original URLs are listed in sources.json. Rights and permission for republication have not been verified.
