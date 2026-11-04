@@ -1,0 +1,119 @@
+[
+  {
+    "type": 1,
+    "names": [
+      "алиса",
+      "ника",
+      "кира",
+      "леся",
+      "яна",
+      "даша",
+      "рина",
+      "ася",
+      "саша",
+      "женя"
+    ],
+    "descriptions": [
+      "крашу волосы чаще чем обновляю резюме слушаю deftones и собираю значки на потёртый рюкзак пойдём на маленький концерт а потом искать где ещё открыта лапшичная",
+      "днём рисую обложки вечером проигрываю друзьям в настолки люблю широкие джинсы тяжёлые ботинки и людей с которыми можно смеяться над совершенно тупыми мемами",
+      "у меня цветные пряди пакет бусин и слишком много идей для переделки одежды ищу компанию на барахолку и человека который тоже замечает красивый свет в подворотнях",
+      "на работе делаю вид что серьёзная после работы клею стикеры на всё подряд слушаю альтернативный рок и прохожу инди игры расскажи какая игра тебя неожиданно зацепила",
+      "люблю шугейз старые цифровые камеры и спонтанные поездки на электричке могу долго выбирать цвет лака зато место для кофе нахожу сразу",
+      "учусь играть на басу и пока лучше всего получается носить его на репетиции обожаю секонды острые соусы и разговоры без попыток казаться круче чем мы есть",
+      "собираю плейлисты под погоду и серёжки которые постоянно теряются по одной на первом свидании предлагаю обменяться любимыми треками и пройтись без маршрута",
+      "стрелки рисую уверенно а дорогу в незнакомом районе нахожу не всегда люблю оверсайз аниме и домашнюю пиццу ищу того с кем одинаково хорошо гулять и ничего не делать",
+      "катаюсь на скейте без особых достижений зато с большим энтузиазмом шью нашивки на куртку и фотографирую друзей на концертах можешь начать с самой странной песни из своего плейлиста",
+      "работаю в кофейне читаю комиксы и периодически решаю что мне срочно нужна новая стрижка люблю яркие детали в чёрной одежде и когда о встрече договариваются прямо"
+    ],
+    "photos": [
+      "https://raw.githubusercontent.com/stryzhka/date-bot-pics/master/photos/alt/01.jpg",
+      "https://raw.githubusercontent.com/stryzhka/date-bot-pics/master/photos/alt/02.jpg",
+      "https://raw.githubusercontent.com/stryzhka/date-bot-pics/master/photos/alt/03.jpg",
+      "https://raw.githubusercontent.com/stryzhka/date-bot-pics/master/photos/alt/04.jpg",
+      "https://raw.githubusercontent.com/stryzhka/date-bot-pics/master/photos/alt/05.jpg",
+      "https://raw.githubusercontent.com/stryzhka/date-bot-pics/master/photos/alt/06.jpg",
+      "https://raw.githubusercontent.com/stryzhka/date-bot-pics/master/photos/alt/07.jpg",
+      "https://raw.githubusercontent.com/stryzhka/date-bot-pics/master/photos/alt/08.jpg",
+      "https://raw.githubusercontent.com/stryzhka/date-bot-pics/master/photos/alt/09.jpg",
+      "https://raw.githubusercontent.com/stryzhka/date-bot-pics/master/photos/alt/10.jpg"
+    ]
+  },
+  {
+    "type": 2,
+    "names": [
+      "агата",
+      "лилия",
+      "ева",
+      "марта",
+      "вероника",
+      "дарина",
+      "элина",
+      "василиса",
+      "диана",
+      "таисия"
+    ],
+    "descriptions": [
+      "слушаю bauhaus и siouxsie and the banshees охочусь за винтажным кружевом и люблю старое кино чёрная помада не мешает мне смеяться над плохими шутками",
+      "могу спорить о любимом альбоме the cure и полчаса выбирать чай на выходных хожу на дарквейв вечеринки а утром честно пытаюсь спасти домашние растения",
+      "у меня больше чёрных рубашек чем поводов их гладить люблю sisters of mercy архитектуру и маленькие книжные давай начнём с прогулки а не с собеседования на отношения",
+      "коллекционирую серебряные украшения слушаю clan of xymox и иногда шью себе одежду хочу найти компанию на концерт и человека которому не надо объяснять зачем мне ещё одни ботинки",
+      "днём работаю с таблицами вечером слушаю goth rock и читаю готические романы люблю сухой юмор тёплые булочки и свидания после которых не нужно гадать понравились ли мы друг другу",
+      "учусь танцевать под deathrock и восстанавливаю старый проигрыватель с виду всё очень мрачно но дома меня ждут смешной кот и кружка с уточкой",
+      "люблю немое кино длинные пальто и концерты в небольших клубах не проверяю людей на знание сцены лучше покажи музыку которую тебе хочется слушать по дороге домой",
+      "рисую афиши собираю кассеты и слушаю lebanon hanover в наушниках могу выглядеть неприступно пока не заговорим о любимых фильмах или о том где вкуснее картошка",
+      "винтажные платья тяжёлые украшения и дарквейв хорошо сочетаются с моей привычкой печь пироги ищу человека для прогулок выставок и спокойного общения без игр в холодность",
+      "люблю ранний постпанк выразительный макияж и старые особняки на фотографиях по вечерам работаю над своим зином пойдём выбирать пластинки даже если домой вернёмся только с кофе"
+    ],
+    "photos": [
+      "https://raw.githubusercontent.com/stryzhka/date-bot-pics/master/photos/goth/01.jpg",
+      "https://raw.githubusercontent.com/stryzhka/date-bot-pics/master/photos/goth/02.jpg",
+      "https://raw.githubusercontent.com/stryzhka/date-bot-pics/master/photos/goth/03.jpg",
+      "https://raw.githubusercontent.com/stryzhka/date-bot-pics/master/photos/goth/04.jpg",
+      "https://raw.githubusercontent.com/stryzhka/date-bot-pics/master/photos/goth/05.jpg",
+      "https://raw.githubusercontent.com/stryzhka/date-bot-pics/master/photos/goth/06.jpg",
+      "https://raw.githubusercontent.com/stryzhka/date-bot-pics/master/photos/goth/07.jpg",
+      "https://raw.githubusercontent.com/stryzhka/date-bot-pics/master/photos/goth/08.jpg",
+      "https://raw.githubusercontent.com/stryzhka/date-bot-pics/master/photos/goth/09.jpg",
+      "https://raw.githubusercontent.com/stryzhka/date-bot-pics/master/photos/goth/10.jpg"
+    ]
+  },
+  {
+    "type": 3,
+    "names": [
+      "соня",
+      "мия",
+      "оля",
+      "лиза",
+      "майя",
+      "полина",
+      "аня",
+      "ира",
+      "уля",
+      "варя"
+    ],
+    "descriptions": [
+      "снимаю на старую мыльницу и собираю фотографии пустых коридоров люблю эмбиент дождь за окном и разговоры в которых не нужно заполнять каждую паузу",
+      "делаю коллажи из плёночных кадров и страниц блокнота люблю выцветший розовый старые зеркала и тихие кофейни хочу познакомиться без спешки и переписок до изнеможения",
+      "у меня папка странных снов и плейлист для ночного автобуса занимаюсь фотографией читаю короткую прозу и всегда замечаю окна в которых ещё горит свет",
+      "собираю старые открытки слушаю дримпоп и веду визуальный дневник из обычных вещей люблю когда со мной говорят бережно и прямо давай начнём с прогулки у воды",
+      "нравятся зернистые снимки пустые лестницы и музыка которая звучит как забытая кассета в жизни я гораздо разговорчивее своих фотографий особенно если обсуждать кино",
+      "ищу красивые тени в самых обычных комнатах делаю маленькие фотозины и пеку банановый хлеб люблю спокойных людей и планы которые можно обсудить словами",
+      "читаю о фотографии слушаю эмбиент и иногда снимаю рассвет на телефон люблю приглушённые цвета старую мебель и прогулки после которых можно вместе согреться чаем",
+      "рисую в блокноте фрагменты снов и собираю домашние видео на старую камеру не люблю шумные знакомства зато могу часами говорить с человеком рядом с которым спокойно",
+      "нравятся странные короткометражки засвеченная плёнка и свет из соседнего окна по выходным делаю коллажи и гуляю без наушников предложи любимое место где можно посидеть в тишине",
+      "делаю фотографии с длинной выдержкой люблю старые журналы и тихие вечерние маршруты ищу не загадочную драму а взаимный интерес уважение к границам и человека с которым легко быть собой"
+    ],
+    "photos": [
+      "https://raw.githubusercontent.com/stryzhka/date-bot-pics/master/photos/traumacore/01.jpg",
+      "https://raw.githubusercontent.com/stryzhka/date-bot-pics/master/photos/traumacore/02.jpg",
+      "https://raw.githubusercontent.com/stryzhka/date-bot-pics/master/photos/traumacore/03.jpg",
+      "https://raw.githubusercontent.com/stryzhka/date-bot-pics/master/photos/traumacore/04.jpg",
+      "https://raw.githubusercontent.com/stryzhka/date-bot-pics/master/photos/traumacore/05.jpg",
+      "https://raw.githubusercontent.com/stryzhka/date-bot-pics/master/photos/traumacore/06.jpg",
+      "https://raw.githubusercontent.com/stryzhka/date-bot-pics/master/photos/traumacore/07.jpg",
+      "https://raw.githubusercontent.com/stryzhka/date-bot-pics/master/photos/traumacore/08.jpg",
+      "https://raw.githubusercontent.com/stryzhka/date-bot-pics/master/photos/traumacore/09.jpg",
+      "https://raw.githubusercontent.com/stryzhka/date-bot-pics/master/photos/traumacore/10.jpg"
+    ]
+  }
+]
